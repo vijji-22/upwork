@@ -1,0 +1,1 @@
+DROP TABLE role_access_mapping;
